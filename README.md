@@ -1,8 +1,9 @@
-# 💫 About Me
+# 👋 Hi, I’m **Samarth Kashyap**
 
-I’m Samarth Kashyap, an MSc Computer Science student at RPTU Kaiserslautern, Germany.  
-I work primarily with Python and TypeScript and focus on building software and SaaS products that solve real-world problems.  
-I enjoy turning complex ideas into practical, scalable systems with real impact.
+### MSc Computer Science @ RPTU Kaiserslautern, Germany
+
+I work primarily with **Python and TypeScript**, focusing on building **software and SaaS products** that solve real-world problems.  
+I enjoy turning complex ideas into **practical, scalable systems** with real impact.
 
 ---
 
@@ -53,6 +54,18 @@ A full-stack SaaS application built to verify the authenticity of the human work
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=samarthkashyap03&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkashyap03&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🤝 Contact Me / Availability
+
+I’m currently available for:
+- 🚀 **SaaS development**
+- 📊 **Dashboards & internal tools**
+- 🌐 **Landing pages & product websites**
+- 🧠 **Problem-driven software solutions**
+
+📩 Feel free to reach out via **LinkedIn** or **email** — I’m always open to discussing ideas and collaborations.
 
 ---
 
