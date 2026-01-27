@@ -2,7 +2,7 @@
 
 ### MSc Computer Science @ RPTU Kaiserslautern, Germany
 
-I work primarily with **Python and TypeScript**, focusing on building **software and SaaS products** that solve real-world problems.  
+I work primarily with **Python**, focusing on building **software and SaaS products** that solve real-world problems.  
 I enjoy turning complex ideas into **practical, scalable systems** with real impact.
 
 ---
