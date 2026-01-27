@@ -70,7 +70,7 @@ I’m currently available for:
 ---
 
 ### ✍️ Personal Note
-> "A developer is a modern-day magician, transforming ideas into reality through creativity and engineering."
+## ❝ A developer is like a magician — turning ideas into reality through creativity, logic, and code. ❞
 
 ---
 
