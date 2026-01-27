@@ -69,8 +69,8 @@ I’m currently available for:
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Personal Note
+> "A developer is a modern-day magician, transforming ideas into reality through creativity and engineering."
 
 ---
 
