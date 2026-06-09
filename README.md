@@ -98,15 +98,6 @@ Docker • Git • GitHub • Linux • Cursor • Claude Code • GitHub Copilo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samarthkashyap03&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkashyap03&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="left">
