@@ -1,70 +1,126 @@
-# 👋 Hi, I’m **Samarth Kashyap**
+# 👋 Hi, I'm Samarth Kashyap
 
-### MSc Computer Science @ RPTU Kaiserslautern, Germany
+### MSc Computer Science @ RPTU Kaiserslautern, Germany 🇩🇪
 
-I work primarily with **Python**, focusing on building **software and SaaS products** that solve real-world problems.  
-I enjoy turning complex ideas into **practical, scalable systems** with real impact.
+I build AI-powered software systems using Python, LLMs, RAG, and modern backend technologies.
 
----
+Currently interested in:
 
-## 🚀 Signature Project
-
-### 🧩 Effortless – A Work Authentication Software
-A full-stack SaaS application built to verify the authenticity of the human work and generate a crytographically binding certificate.
-
-**Stack used in this project:**  
-- Frontend: Vite, TypeScript, React, Tailwind CSS  
-- Database: PostgreSQL  
-
-🔗 **Repository:** *https://github.com/samarthkashyap03/effortless*  
-🌐 **Live Demo:** *www.effortless-app.com*
+* 🤖 AI Engineering
+* 🧠 Multi-Agent Systems
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ⚙️ Backend Engineering
+* 🚀 Full-Stack Product Development
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthkashyap)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthkashyap03@gmail.com)
+## 🚀 Featured Projects
+
+### 🧠 Lumen — AI-Powered Reading Platform
+
+An AI-powered platform that transforms long-form articles into swipeable knowledge cards through a multi-agent processing pipeline.
+
+**Highlights**
+
+* Multi-agent AI workflow
+* Retrieval-Augmented Generation (RAG)
+* Vector search with pgvector
+* AI-powered article chat
+* FastAPI + Celery backend
+* React + TypeScript frontend
+
+**Tech Stack**
+Python • FastAPI • Groq • PostgreSQL • Supabase • pgvector • Redis • Celery • React • TypeScript
+
+🔗 Repository: https://github.com/samarthkashyap03/lumen
 
 ---
 
-## 💻 Tech Stack
+### 🔐 Effortless — Work Authentication Platform
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+A SaaS platform that verifies document authenticity and generates cryptographically verifiable certificates.
 
-### 🗄️ Backend, Data & AI
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+**Tech Stack**
+React • TypeScript • PostgreSQL • Supabase
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠️ Tools & Testing
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+🔗 Repository: https://github.com/samarthkashyap03/effortless
 
 ---
 
-## 🤝 Contact Me / Availability
+### 💊 MedConnect (Patent Granted)
 
-I’m currently available for:
-- 🚀 **SaaS development**
-- 📊 **Dashboards & internal tools**
-- 🌐 **Landing pages & product websites**
-- 🧠 **Problem-driven software solutions**
+An IoT-based automated medicine dispensing system integrating embedded software, automation, and device communication.
 
-📩 Feel free to reach out via **LinkedIn** or **email** — I’m always open to discussing ideas and collaborations.
+🏆 Patent Granted (India): 710119106
 
----
-
-### ✍️ Personal Note
-## ❝ A developer is like a magician — turning ideas into reality through creativity, logic, and code. ❞
+**Tech Stack**
+Arduino • ESP8266 • C++ • Python
 
 ---
 
+## 💡 What I Work With
+
+### Languages
+
+Python • TypeScript • JavaScript • SQL • C++
+
+### AI & LLM Engineering
+
+* Retrieval-Augmented Generation (RAG)
+* Multi-Agent Systems
+* Embeddings & Semantic Search
+* Vector Databases (pgvector)
+* Prompt Engineering
+* LLM Application Development
+* Workflow Automation
+
+### Backend
+
+FastAPI • PostgreSQL • Supabase • Redis • Celery • REST APIs
+
+### Frontend
+
+React • TypeScript • Tailwind CSS • TanStack Router
+
+### Tools
+
+Docker • Git • GitHub • Linux • Cursor • Claude Code • GitHub Copilot
+
+---
+
+## 🌱 Currently Learning
+
+* Agentic AI Systems
+* Advanced RAG Architectures
+* Distributed Backend Systems
+* Production LLM Infrastructure
+* German 🇩🇪 (A2 → B1)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samarthkashyap03&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkashyap03&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/samarthkashyap">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:samarthkashyap03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+📍 Kaiserslautern, Germany
+
+---
+
+> Building software is fun. Building systems that think is even better.
