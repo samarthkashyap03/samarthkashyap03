@@ -1,117 +1,110 @@
-# 👋 Hi, I'm Samarth Kashyap
+# Hi, I'm Samarth 👋
 
-### MSc Computer Science @ RPTU Kaiserslautern, Germany 🇩🇪
+### MSc Computer Science Student in Kaiserslautern, Germany 🇩🇪
 
-I build AI-powered software systems using Python, LLMs, RAG, and modern backend technologies.
+I enjoy building software that solves real problems.
 
-Currently interested in:
+Most of my work is around AI, web applications, and backend systems. I like taking an idea from a blank page to something people can actually use.
 
-* 🤖 AI Engineering
-* 🧠 Multi-Agent Systems
-* 🔍 Retrieval-Augmented Generation (RAG)
-* ⚙️ Backend Engineering
-* 🚀 Full-Stack Product Development
+Right now, I'm especially interested in:
+
+* AI applications
+* Backend development
+* Search and recommendation systems
+* Building complete products from scratch
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🧠 Lumen — AI-Powered Reading Platform
+### 🧠 Lumen
 
-An AI-powered platform that transforms long-form articles into swipeable knowledge cards through a multi-agent processing pipeline.
+Lumen helps people learn from long articles faster.
 
-**Highlights**
+Paste an article, and it turns the content into simple, swipeable knowledge cards. You can also chat with the article and ask questions about it.
 
-* Multi-agent AI workflow
-* Retrieval-Augmented Generation (RAG)
-* Vector search with pgvector
-* AI-powered article chat
-* FastAPI + Celery backend
-* React + TypeScript frontend
+**Built with**
+Python, FastAPI, PostgreSQL, Redis, React, TypeScript
 
-**Tech Stack**
-Python • FastAPI • Groq • PostgreSQL • Supabase • pgvector • Redis • Celery • React • TypeScript
-
+🔗 Live Demo: https://lumenbrief.vercel.app
 🔗 Repository: https://github.com/samarthkashyap03/lumen
 
 ---
 
-### 🔐 Effortless — Work Authentication Platform
+### 🔐 Effortless
 
-A SaaS platform that verifies document authenticity and generates cryptographically verifiable certificates.
+A platform that helps verify documents and generate certificates that can be checked later for authenticity.
 
-**Tech Stack**
-React • TypeScript • PostgreSQL • Supabase
+**Built with**
+React, TypeScript, PostgreSQL, Supabase
 
+🔗 Live Demo: https://effortless-app.com
 🔗 Repository: https://github.com/samarthkashyap03/effortless
 
 ---
 
-### 💊 MedConnect (Patent Granted)
+### 💊 MedConnect
 
-An IoT-based automated medicine dispensing system integrating embedded software, automation, and device communication.
+An automated medicine dispensing system that combines hardware and software to help manage medication schedules.
 
 🏆 Patent Granted (India): 710119106
 
-**Tech Stack**
-Arduino • ESP8266 • C++ • Python
+**Built with**
+Arduino, ESP8266, C++, Python
 
 ---
 
-## 💡 What I Work With
+## What I Use
 
-### Languages
+**Languages**
 
-Python • TypeScript • JavaScript • SQL • C++
+* Python
+* TypeScript
+* JavaScript
+* SQL
+* C++
 
-### AI & LLM Engineering
+**Backend**
 
-* Retrieval-Augmented Generation (RAG)
-* Multi-Agent Systems
-* Embeddings & Semantic Search
-* Vector Databases (pgvector)
-* Prompt Engineering
-* LLM Application Development
-* Workflow Automation
+* FastAPI
+* PostgreSQL
+* Redis
+* REST APIs
 
-### Backend
+**Frontend**
 
-FastAPI • PostgreSQL • Supabase • Redis • Celery • REST APIs
+* React
+* TypeScript
+* Tailwind CSS
 
-### Frontend
+**Tools**
 
-React • TypeScript • Tailwind CSS • TanStack Router
-
-### Tools
-
-Docker • Git • GitHub • Linux • Cursor • Claude Code • GitHub Copilot
-
----
-
-## 🌱 Currently Learning
-
-* Agentic AI Systems
-* Advanced RAG Architectures
-* Distributed Backend Systems
-* Production LLM Infrastructure
-* German 🇩🇪 (A2 → B1)
+* Docker
+* Git
+* Linux
+* GitHub
+* Cursor
+* Claude Code
 
 ---
 
-## 🌍 Connect With Me
+## Currently Learning
 
-<p align="left">
-  <a href="https://linkedin.com/in/samarthkashyap">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+* Building more reliable AI applications
+* Designing larger backend systems
+* Running software in production
+* Improving my German 🇩🇪
 
-  <a href="mailto:samarthkashyap03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+---
+
+## Connect
 
 📍 Kaiserslautern, Germany
 
+LinkedIn: linkedin.com/in/samarthkashyap
+
+Email: [samarthkashyap03@gmail.com](mailto:samarthkashyap03@gmail.com)
+
 ---
 
-> Building software is fun. Building systems that think is even better.
+> I like building things, learning how they work, and making them a little better every day.
