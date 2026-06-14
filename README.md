@@ -4,13 +4,12 @@
 
 I enjoy building software that solves real problems.
 
-Most of my work is around AI, web applications, and backend systems. I like taking an idea from a blank page to something people can actually use.
+Most of my work is around Python, AI, Automation, and backend systems. I like taking an idea from a blank page to something people can actually use.
 
 Right now, I'm especially interested in:
 
 * AI applications
 * Backend development
-* Search and recommendation systems
 * Building complete products from scratch
 
 ---
@@ -19,12 +18,12 @@ Right now, I'm especially interested in:
 
 ### 🧠 Lumen
 
-Lumen helps people learn from long articles faster.
+Lumen helps people learn from long articles faster, with help of AI.
 
-Paste an article, and it turns the content into simple, swipeable knowledge cards. You can also chat with the article and ask questions about it.
+Paste an article, or write it in the CMS portal, and it turns the content into simple, swipeable knowledge cards. You can also chat with the article and ask questions about it.
 
 **Built with**
-Python, FastAPI, PostgreSQL, Redis, React, TypeScript
+Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Langchain
 
 🔗 Live Demo: https://www.lumenbrief.app
 🔗 Repository: https://github.com/samarthkashyap03/lumen
@@ -56,7 +55,7 @@ Arduino, ESP8266, C++, Python
 
 ## What I Use
 
-**Languages**
+### Languages
 
 * Python
 * TypeScript
@@ -64,27 +63,36 @@ Arduino, ESP8266, C++, Python
 * SQL
 * C++
 
-**Backend**
+### AI & LLM Systems
+
+* Retrieval-Augmented Generation (RAG)
+* LLM Integration
+* Embeddings & Vector Search
+* LangChain
+* AI Workflow Automation
+
+### Backend
 
 * FastAPI
 * PostgreSQL
 * Redis
+* Celery
 * REST APIs
+* pgvector
 
-**Frontend**
+### Frontend
 
 * React
 * TypeScript
 * Tailwind CSS
 
-**Tools**
+### Tools
 
 * Docker
 * Git
-* Linux
 * GitHub
-* Cursor
-* Claude Code
+* Linux
+* n8n
 
 ---
 
