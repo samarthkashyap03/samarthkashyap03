@@ -26,7 +26,7 @@ Paste an article, and it turns the content into simple, swipeable knowledge card
 **Built with**
 Python, FastAPI, PostgreSQL, Redis, React, TypeScript
 
-🔗 Live Demo: https://lumenbrief.vercel.app
+🔗 Live Demo: https://www.lumenbrief.app
 🔗 Repository: https://github.com/samarthkashyap03/lumen
 
 ---
