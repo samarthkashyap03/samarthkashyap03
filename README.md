@@ -15,7 +15,7 @@ Right now, I'm especially interested in:
 
 ---
 
-## Projects
+## Featured Projects
 
 ### 🧠 Lumen
 
