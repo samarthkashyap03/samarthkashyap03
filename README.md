@@ -112,6 +112,7 @@ Arduino, ESP8266, C++, Python
 LinkedIn: [samarthkashyap](linkedin.com/in/samarthkashyap)
 
 Email: [samarthkashyap03@gmail.com](mailto:samarthkashyap03@gmail.com)
+
 Website: [Website](https://samarthkashyap.tech)
 
 ---
