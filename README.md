@@ -109,9 +109,10 @@ Arduino, ESP8266, C++, Python
 
 📍 Kaiserslautern, Germany
 
-LinkedIn: linkedin.com/in/samarthkashyap
+LinkedIn: [samarthkashyap](linkedin.com/in/samarthkashyap)
 
 Email: [samarthkashyap03@gmail.com](mailto:samarthkashyap03@gmail.com)
+Website: [Website](https://samarthkashyap.tech)
 
 ---
 
