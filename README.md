@@ -1,120 +1,76 @@
 # Hi, I'm Samarth 👋
 
-### MSc Computer Science Student in Kaiserslautern, Germany 🇩🇪
+M.Sc. Computer Science student at RPTU Kaiserslautern 🇩🇪
 
-I enjoy building software that solves real problems.
+I build software products, AI applications, and automation systems.
 
-Most of my work is around Python, AI, Automation, and backend systems. I like taking an idea from a blank page to something people can actually use.
+My interests sit at the intersection of:
 
-Right now, I'm especially interested in:
+* AI & Agentic Systems
+* Backend Engineering
+* Workflow Automation
+* Product Development
 
-* AI applications
-* Backend development
-* Building complete products from scratch
+Most of my projects start with a simple question:
+
+> "Can this process be made simpler, faster, or more useful?"
 
 ---
 
-## Featured Projects
+## Projects
 
 ### 🧠 Lumen
 
-Lumen helps people learn from long articles faster, with help of AI.
+AI-powered reading platform using RAG, vector search, and multi-agent content pipelines.
 
-Paste an article, or write it in the CMS portal, and it turns the content into simple, swipeable knowledge cards. You can also chat with the article and ask questions about it.
+**Stack:** FastAPI · PostgreSQL · Redis · Celery · pgvector · React · TypeScript
 
-**Built with**
-Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Langchain
-
-🔗 Live Demo: https://www.lumenbrief.app
-🔗 Repository: https://github.com/samarthkashyap03/lumen
-
----
+🔗 Live: https://lumenbrief.app
 
 ### 🔐 Effortless
 
-A platform that helps verify documents and generate certificates that can be checked later for authenticity.
+Privacy-first document verification platform.
 
-**Built with**
-React, TypeScript, PostgreSQL, Supabase
+**Stack:** React · TypeScript · Supabase · PostgreSQL
 
-🔗 Live Demo: https://effortless-app.com
-🔗 Repository: https://github.com/samarthkashyap03/effortless
-
----
+🔗 Live: https://effortless-app.com
 
 ### 💊 MedConnect
 
-An automated medicine dispensing system that combines hardware and software to help manage medication schedules.
+Patented autonomous medicine dispensing system combining software, robotics, and embedded systems.
 
-🏆 Patent Granted (India): 710119106
-
-**Built with**
-Arduino, ESP8266, C++, Python
+**Stack:** ESP8266 · Arduino · Python · C++
 
 ---
 
-## What I Use
+## Tech Stack
 
-### Languages
+**Languages**
+Python · TypeScript · JavaScript · SQL · C++
 
-* Python
-* TypeScript
-* JavaScript
-* SQL
-* C++
+**AI**
+RAG · LangChain · Embeddings · Vector Search · AI Agents
 
-### AI & LLM Systems
+**Backend**
+FastAPI · PostgreSQL · Redis · Celery · REST APIs
 
-* Retrieval-Augmented Generation (RAG)
-* LLM Integration
-* Embeddings & Vector Search
-* LangChain
-* AI Workflow Automation
+**Frontend**
+React · TypeScript · Tailwind CSS
 
-### Backend
-
-* FastAPI
-* PostgreSQL
-* Redis
-* Celery
-* REST APIs
-* pgvector
-
-### Frontend
-
-* React
-* TypeScript
-* Tailwind CSS
-
-### Tools
-
-* Docker
-* Git
-* GitHub
-* Linux
-* n8n
+**Tools**
+Docker · Git · Linux · n8n
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
-* Building more reliable AI applications
-* Designing larger backend systems
-* Running software in production
-* Improving my German 🇩🇪
-
----
-
-## Connect
+* Agentic AI Systems
+* Production AI Applications
+* Backend Architecture
+* Automation Workflows
 
 📍 Kaiserslautern, Germany
 
-LinkedIn: [samarthkashyap](linkedin.com/in/samarthkashyap)
+🌐 https://samarthkashyap.tech
 
-Email: [samarthkashyap03@gmail.com](mailto:samarthkashyap03@gmail.com)
-
-Website: [Website](https://samarthkashyap.tech)
-
----
-
-> I like building things, learning how they work, and making them a little better every day.
+💼 linkedin.com/in/samarthkashyap
