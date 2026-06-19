@@ -17,7 +17,7 @@ Most of my projects start with a simple question:
 
 ---
 
-## Projects
+## Featured Projects
 
 ### 🧠 Lumen
 
