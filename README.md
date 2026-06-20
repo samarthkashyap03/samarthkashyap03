@@ -4,17 +4,17 @@ M.Sc. Computer Science student at RPTU Kaiserslautern 🇩🇪
 
 I build software products, AI applications, and automation systems.
 
-My interests sit at the intersection of:
-
-* AI & Agentic Systems
-* Backend Engineering
-* Workflow Automation
-* Product Development
+I enjoy building software that combines AI, backend systems, and automation to solve practical problems.
 
 Most of my projects start with a simple question:
 
 > "Can this process be made simpler, faster, or more useful?"
+---
+![](https://komarev.com/ghpvc/?username=samarthkashyap03&color=blue)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthkashyap03&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkashyap03&layout=compact)
 ---
 
 ## Featured Projects
