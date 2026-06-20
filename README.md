@@ -9,12 +9,7 @@ I enjoy building software that combines AI, backend systems, and automation to s
 Most of my projects start with a simple question:
 
 > "Can this process be made simpler, faster, or more useful?"
----
-![](https://komarev.com/ghpvc/?username=samarthkashyap03&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthkashyap03&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkashyap03&layout=compact)
 ---
 
 ## Featured Projects
@@ -60,6 +55,11 @@ React · TypeScript · Tailwind CSS
 **Tools**
 Docker · Git · Linux · n8n
 
+---
+![](https://komarev.com/ghpvc/?username=samarthkashyap03&color=blue)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkashyap03&layout=compact)
 ---
 
 ## Currently Exploring
