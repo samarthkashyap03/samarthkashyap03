@@ -1,34 +1,36 @@
 # Hi, I'm Samarth 👋
 
-M.Sc. Computer Science student at RPTU Kaiserslautern 🇩🇪
+I build AI-powered software products, backend systems, and automation workflows.
 
-I build software products, AI applications, and automation systems.
+🎓 M.Sc. Computer Science @ RPTU Kaiserslautern, Germany
 
-I enjoy building software that combines AI, backend systems, and automation to solve practical problems.
+![](https://komarev.com/ghpvc/?username=samarthkashyap03\&color=blue)
 
-Most of my projects start with a simple question:
-
-> "Can this process be made simpler, faster, or more useful?"
-
----
+> Most of my projects start with a simple question:
+>
+> **"Can this process be made simpler, faster, or more useful?"**
 
 ## Featured Projects
 
 ### 🧠 Lumen
 
-AI-powered reading platform using RAG, vector search, and multi-agent content pipelines.
+AI-powered reading platform that uses RAG, vector search, and multi-agent workflows to generate personalized article briefings.
 
 **Stack:** FastAPI · PostgreSQL · Redis · Celery · pgvector · React · TypeScript
 
-🔗 Live: https://lumenbrief.app
+🌐 https://lumenbrief.app
+
+---
 
 ### 🔐 Effortless
 
-Privacy-first document verification platform.
+Privacy-first document verification platform focused on secure and streamlined verification workflows.
 
 **Stack:** React · TypeScript · Supabase · PostgreSQL
 
-🔗 Live: https://effortless-app.com
+🌐 https://effortless-app.com
+
+---
 
 ### 💊 MedConnect
 
@@ -38,13 +40,10 @@ Patented autonomous medicine dispensing system combining software, robotics, and
 
 ---
 
-## Tech Stack
-
-**Languages**
-Python · TypeScript · JavaScript · SQL · C++
+## Core Expertise
 
 **AI**
-RAG · LangChain · Embeddings · Vector Search · AI Agents
+RAG · Vector Search · LangChain · AI Agents · Embeddings
 
 **Backend**
 FastAPI · PostgreSQL · Redis · Celery · REST APIs
@@ -53,24 +52,17 @@ FastAPI · PostgreSQL · Redis · Celery · REST APIs
 React · TypeScript · Tailwind CSS
 
 **Tools**
-Docker · Git · Linux · n8n
-
----
-![](https://komarev.com/ghpvc/?username=samarthkashyap03&color=blue)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkashyap03&layout=compact)
----
+Docker · Linux · Git · n8n
 
 ## Currently Exploring
 
 * Agentic AI Systems
 * Production AI Applications
 * Backend Architecture
-* Automation Workflows
+* Workflow Automation
 
-📍 Kaiserslautern, Germany
+## Connect
 
 🌐 https://samarthkashyap.tech
 
-💼 linkedin.com/in/samarthkashyap
+💼 https://linkedin.com/in/samarthkashyap
